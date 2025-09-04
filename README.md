@@ -1,53 +1,25 @@
 <h1 align="center">Hi 👋, I'm Atharva Dhawan</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-1703&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-1703" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharva-1703&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-1703" alt="atharva-1703" /></a> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=atharva-1703&theme=onedark&row=1&column=6" alt="trophies"/>
-  </a>
-</p>
+- 🌱 I’m currently learning **Nextjs**
 
----
+- 👨‍💻 All of my projects are available at [https://atharva-dhawan.onrender.com/](https://atharva-dhawan.onrender.com/)
 
-### 🌱 Currently Learning
+- 💬 Ask me about **react,nextjs**
 
-- **Next.js**
+- 📫 How to reach me **atharvadhawan17@gmail.com**
 
-### 👨‍💻 Projects
-
-- All of my projects are available at:  
-  👉 [Portfolio](https://atharva-dhawan.onrender.com/)
-
-### 💬 Ask Me About
-
-- **React, Next.js**
-
-### 📫 Reach Me At
-
-- **atharvadhawan17@gmail.com**
-
----
-
-## 🔗 Connect with me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/atharva-dhawan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/atharva1203" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
-  </a>
+<a href="https://linkedin.com/in/atharva-dhawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-dhawan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/atharva1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva1203" height="30" width="40" /></a>
 </p>
 
----
-
-## 🛠️ Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
   <!-- Programming -->
@@ -88,18 +60,8 @@
 
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-1703&show_icons=true&locale=en&layout=compact" alt="atharva-1703" /></p>
 
-## 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva-1703&show_icons=true&locale=en" alt="atharva-1703" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-1703&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva-1703&show_icons=true&locale=en" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-1703&" alt="streak-stats" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-1703&" alt="atharva-1703" /></p>
